@@ -19,8 +19,8 @@
 Here are some of my key projects:
 
 - 📊 [SALES-AND-FINANCIAL-ANALYSIS-REPORT](https://github.com/AhmadShahab07/SALES-AND-FINANCIAL-ANALYSIS-REPORT)  
-- 🏨 [HOSPITALITY-DOMAIN-ANALYSIS](https://github.com/AhmadShahab07/HOSPITALITY-DOMAIN-ANALYSIS)  
-
+- 🏨 [HOSPITALITY-DOMAIN-ANALYSIS](https://github.com/AhmadShahab07/HOSPITALITY-DOMAIN-ANALYSIS)
+- 💻 [**Business Insights 360° (AtliQ Hardware)**](https://github.com/AhmadShahab07/AtliQ-Hardwares-360) 
 
 
 ## 📈 GitHub Stats  
