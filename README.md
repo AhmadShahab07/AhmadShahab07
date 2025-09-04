@@ -20,8 +20,7 @@ Here are some of my key projects:
 
 - 📊 [SALES-AND-FINANCIAL-ANALYSIS-REPORT](https://github.com/AhmadShahab07/SALES-AND-FINANCIAL-ANALYSIS-REPORT)  
 - 🏨 [HOSPITALITY-DOMAIN-ANALYSIS](https://github.com/AhmadShahab07/HOSPITALITY-DOMAIN-ANALYSIS)
-- 💻 [**Business Insights 360° (https://github.com/AhmadShahab07/Business_Insights_360)
-
+- 💻 [BUSINESS-INSIGHTS-360](https://github.com/AhmadShahab07/Business_Insights_360)  
 
 ## 📈 GitHub Stats  
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadshahab07&show_icons=true&theme=default&hide_rank=true)
